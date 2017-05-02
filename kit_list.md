@@ -36,3 +36,6 @@
 * [아두이노 WiFi 쉴드 F1형 -AP 기능 및 스마트폰 설정 지원 ( WiFi Shield V3 PCB Antenna 802.11b/g/n)](http://artrobot.co.kr/product/tf0078tel-%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-wifi-%EC%89%B4%EB%93%9C-f1%ED%98%95-ap-%EA%B8%B0%EB%8A%A5-%EB%B0%8F-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0-%EC%84%A4%EC%A0%95-%EC%A7%80%EC%9B%90-wifi-shield-v3-pcb-anten/1082/category/34/display/1/) / 59,900원 / DFrobot(디에프로봇)
 
 ![](http://artrobot.co.kr/web/product/img/DSC2814-900x600.jpg)
+
+## 기타
+* [비트브릭 크리에이터 키트 ](http://bitbrick.kr/product/detail.html?product_no=63&cate_no=1&display_group=2) / 198,000원 / 헬로긱스
