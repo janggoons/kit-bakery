@@ -24,6 +24,10 @@
 
 ![raspberry](http://artrobot.co.kr/web/product/img/13826-01.jpg)
 
+* [라즈베리파이3 스타트 키트(아답터 2.5A)](http://eleparts.co.kr/EPXGJHLM) / 66,800원 / 엘레파츠
+  - 전자부품들은 없음.
+
+![라즈베리파이3 스타터키트](http://eleparts.co.kr/data/shopimages/EPX/GJH/LM/0170310240050000342.jpg)
 
 ## IoT 용 쉴드
 
